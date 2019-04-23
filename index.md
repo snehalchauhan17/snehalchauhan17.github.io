@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages for Snehal Chauhan
 
 You can use the [editor on GitHub](https://github.com/snehalchauhan17/snehalchauhan17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
